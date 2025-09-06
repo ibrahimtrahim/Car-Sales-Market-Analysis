@@ -13,6 +13,8 @@ We built an **interactive dashboard** to track sales, average resale values, and
 
 ## Dashboard
 
+![](dashboard.png)
+
 ## Methodology
 1. Data Cleaning & Preparation
 - Standardized manufacturer and model names.
